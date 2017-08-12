@@ -1,4 +1,3 @@
-.gitignore
-out/
-.idea/
-CalculationEngine.iml
+.idea
+.ignore
+*.iml
